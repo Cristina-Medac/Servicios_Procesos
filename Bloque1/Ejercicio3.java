@@ -27,7 +27,7 @@ public class Ejercicio3 {
             String paginaEdge = "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\"";
             
         }catch (Exception e){
-
+            System.out.println(e.getMessage());
         }
 
         
