@@ -29,12 +29,10 @@ public class Ejercicio1 {
        h4.join();
        
        /* El JOIN hace que el hilo termine completamente su programacion
-       o tarea antes de que empiecen los demas. Así, hasta que el h1
-       
+       o tarea antes de que empiecen los demas. Así, hasta que el h1 no termine
+       de mostrar todos sus números, no empezará el h2.      
        */
-       
-       //el JOIN hace que los demas hislos esperen a que ese hilo
-       //termine completamente su tarea. 
+ 
        }catch(Exception e){
            
        }
